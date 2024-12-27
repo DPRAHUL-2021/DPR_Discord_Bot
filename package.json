@@ -1,0 +1,17 @@
+{
+  "name": "dpr_discord_bot",
+  "version": "1.0.0",
+  "description": "This is a Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "express": "^4.21.2",
+    "shortid": "^2.2.16"
+  }
+}
